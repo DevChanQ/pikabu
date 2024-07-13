@@ -1,0 +1,10 @@
+{
+    entry =     {
+        bundle = PikabuSettings;
+        cell = PSLinkCell;
+        detail = PikabuListController;
+        icon = "Pikabu.png";
+        isController = 1;
+        label = Pikabu;
+    };
+}

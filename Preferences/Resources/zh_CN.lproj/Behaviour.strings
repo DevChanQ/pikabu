@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PIKABU_POSITION</key>
+		<string>皮卡布位置</string>
+
+		<key>BIGGER_PIKABU</key>
+		<string>更大的皮卡布</string>
+
+		<key>PIKABU_APPEARENCE</key>
+		<string>皮卡布外观</string>
+
+		<key>LIGHT_TINT_COLOR</key>
+		<string>浅着色</string>
+
+		<key>DARK_TINT_COLOR</key>
+		<string>深着色</string>
+
+		<key>PIKABU_BACKGROUND</key>
+		<string>背景颜色</string>
+
+		<key>LIGHTER_COLOR</key>
+		<string>更浅的浅着色</string>
+
+		<key>INVERT_COLOR</key>
+		<string>反转颜色</string>
+
+		<key>DARK_ONLY</key>
+		<string>只显示深着色颜色</string>
+
+		<key>PIKABU_BEHAVIOUR</key>
+		<string>皮卡布特性</string>
+
+	  <key>VIBRATE</key>
+		<string>震动</string>
+
+		<key>BEHAVIOUR</key>
+	  <string>特性</string>
+	</dict>
+</plist>

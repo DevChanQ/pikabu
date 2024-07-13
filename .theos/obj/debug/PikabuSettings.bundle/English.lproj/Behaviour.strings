@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PIKABU_POSITION</key>
+	<string>Pikabu Position</string>
+
+	<key>BIGGER_PIKABU</key>
+	<string>A Bigger Pikabu</string>
+
+	<key>PIKABU_APPEARENCE</key>
+	<string>Pikabu Appearence</string>
+
+	<key>LIGHT_TINT_COLOR</key>
+	<string>Light Tint Color</string>
+
+	<key>DARK_TINT_COLOR</key>
+	<string>Dark Tint Color</string>
+
+	<key>PIKABU_BACKGROUND</key>
+	<string>Pikabu Background</string>
+
+	<key>LIGHTER_COLOR</key>
+	<string>Lighter Color on Light Tint</string>
+
+	<key>INVERT_COLOR</key>
+	<string>Invert Color</string>
+
+	<key>DARK_ONLY</key>
+	<string>Show Dark Tint Only</string>
+
+	<key>PIKABU_BEHAVIOUR</key>
+	<string>Pikabu Behaviour</string>
+
+  <key>VIBRATE</key>
+	<string>Vibrate</string>
+
+  <key>BEHAVIOUR</key>
+  <string>Behaviour</string>
+</dict>
+</plist>
